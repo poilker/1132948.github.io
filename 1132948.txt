@@ -2,7 +2,7 @@
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
-  <title>11XXXXX</title>  <!-- 這裡改成你的學號 -->
+  <title>1132948</title>  <!-- 這裡改成你的學號 -->
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -42,13 +42,13 @@
 </head>
 <body>
   <header>
-    <h1>11XXXXX 的個人頁面</h1>
+    <h1>1132948 的個人頁面</h1>
   </header>
 
   <div class="container">
     <div class="id-box">
-      <h2>學號：11XXXXX</h2>
-      <p>姓名：何大一</p> <!-- 這裡換成你自己 -->
+      <h2>學號：1132948</h2>
+      <p>姓名：黃郁翔</p> <!-- 這裡換成你自己 -->
       <p>這是我的作業首頁。</p>
     </div>
 
